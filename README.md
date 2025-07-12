@@ -60,8 +60,7 @@ emotion-recognition-app/
 
 ## 📜 License
 
-This project is open source under the [MIT License](LICENSE).
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ---
 
 > Built with ❤️ using AI and Streamlit
